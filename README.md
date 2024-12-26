@@ -3,7 +3,7 @@ An associated Github repo for our paper 'Addressing Estimation Errors on Expecte
 
 Authors:  Gérard Cornuéjols, Özgün Elçi, Vrishabh Patil (vmpatil@andrew.cmu.edu),
 
-**In Submission**
+**Submitted to European Journal of Operational Research**
 
 ### Abstract ###
 
